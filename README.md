@@ -41,8 +41,6 @@ Greetings! I'm Zaid Qourah, a dynamic and forward-thinking Computer Science Engi
 
 ## GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZaidQourah2004)](https://git.io/streak-stats)
-
 ![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidQourah2004&show_icons=true&theme=transparent&hide_rank=true)
 
 
