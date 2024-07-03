@@ -41,7 +41,7 @@ Greetings! I'm Zaid Qourah, a dynamic and forward-thinking Computer Science Engi
 
 ## GitHub Stats:
 
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidQourah2004&show_icons=true&theme=transparent&hide_rank=false)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidQourah2004&show_icons=true&theme=transparent&hide_rank=true)
 
 
 ## Get in Touch
