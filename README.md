@@ -10,7 +10,7 @@ Greetings! I'm Zaid Qourah, a dynamic and forward-thinking Computer Science Engi
 - 🎓 **Education:** 
   - Bachelor of Science in Computer Science Engineering, Minor in Economics
   - Michigan State University, Lansing, Michigan 
-  - GPA: 3.76
+  - GPA: 3.98
 
 - 🌱 **Currently Learning:** 
   - AI, Cloud Computing, Web Development, and more.
