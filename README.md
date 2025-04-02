@@ -60,7 +60,6 @@ Check out my personal portfolio at [zaidqourah.com](https://zaidqourah.com) for 
 ## GitHub Stats:
 
 ![ZaidQourah2004's Stats](https://github-readme-stats.vercel.app/api?username=ZaidQourah2004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
-![ZaidQourah2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaidQourah2004&theme=vue-dark&hide_border=true)
 ![ZaidQourah2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidQourah2004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Get in Touch
