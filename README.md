@@ -59,6 +59,7 @@ Check out my personal portfolio at [zaidqourah.com](https://zaidqourah.com) for 
 
 ## GitHub Stats:
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZaidQourah2004?cardType=level-alternate&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 ![ZaidQourah2004's Stats](https://github-readme-stats.vercel.app/api?username=ZaidQourah2004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 ![ZaidQourah2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidQourah2004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
